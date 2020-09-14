@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T21:44:53.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="36hGOofwk2kWQaWYCmty" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T20:02:50.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tzLujGlvTBkptDA4dkbU" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1782" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2382" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-105" value="Gr" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1970" width="1060" height="590" as="geometry" />
+        </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-6" value="&lt;ul&gt;&lt;li&gt;Cultural Relevance&lt;/li&gt;&lt;li&gt;Community Engagement&lt;/li&gt;&lt;li&gt;Accountability&lt;/li&gt;&lt;li&gt;Narrative&lt;/li&gt;&lt;li&gt;Develop Regional Strategy&lt;/li&gt;&lt;li&gt;Access to Ground Truth and Experiential Learning&lt;/li&gt;&lt;li&gt;Develop Workforce&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-70" y="350" width="230" height="140" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="MUnC99iAr-YjVo2n2BIT-17" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="520" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-18" value="&lt;ul&gt;&lt;li&gt;Library&lt;/li&gt;&lt;li&gt;Research Data Services&lt;/li&gt;&lt;li&gt;ADA Coordinator&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-18" value="&lt;ul&gt;&lt;li&gt;Health Library&lt;/li&gt;&lt;li&gt;Research Data Services&lt;/li&gt;&lt;li&gt;ADA Coordinator&lt;/li&gt;&lt;li&gt;Main Library&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-50" y="600" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-19" value="University" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +55,7 @@
         <mxCell id="MUnC99iAr-YjVo2n2BIT-28" value="&lt;ul&gt;&lt;li&gt;None?&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-260" y="555" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-29" value="&lt;ul&gt;&lt;li&gt;USWDS&lt;/li&gt;&lt;li&gt;18f API Standards&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-29" value="&lt;ul&gt;&lt;li&gt;NIH&lt;/li&gt;&lt;li&gt;NLM&lt;/li&gt;&lt;li&gt;USWDS&lt;/li&gt;&lt;li&gt;18f API Standards&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-30" value="&lt;ul&gt;&lt;li&gt;VDBVI&lt;/li&gt;&lt;li&gt;VDDHH&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
@@ -62,7 +65,7 @@
           <mxGeometry x="815" y="440" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-32" value="&lt;ul&gt;&lt;li&gt;Cultural Relevance&lt;/li&gt;&lt;li&gt;Community Engagement&lt;/li&gt;&lt;li&gt;Accountability&lt;/li&gt;&lt;li&gt;Narrative&lt;/li&gt;&lt;li&gt;Develop Regional Strategy&lt;/li&gt;&lt;li&gt;Access to Ground Truth and Experiential Learning&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="890" width="230" height="120" as="geometry" />
+          <mxGeometry x="-170" y="890" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-33" value="&lt;ul&gt;&lt;li&gt;Understanding Policy&lt;/li&gt;&lt;li&gt;Develop National Strategy&lt;/li&gt;&lt;li&gt;Institutional Wisdom&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="230" y="890" width="190" height="90" as="geometry" />
@@ -76,14 +79,14 @@
         <mxCell id="MUnC99iAr-YjVo2n2BIT-36" value="&lt;ul&gt;&lt;li&gt;Sustainability&lt;/li&gt;&lt;li&gt;Evolution&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="920" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-37" value="&lt;ul&gt;&lt;li&gt;JABA&lt;/li&gt;&lt;li&gt;Side By Side&lt;/li&gt;&lt;li&gt;IRC&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-37" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;IRC&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Side by Side&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;BLM&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="60" y="1100" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-38" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-39" value="&lt;ul&gt;&lt;li&gt;Library&lt;/li&gt;&lt;li&gt;Research Data Services&lt;/li&gt;&lt;li&gt;ADA Coordinator&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1140" width="180" height="70" as="geometry" />
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-39" value="&lt;ul&gt;&lt;li&gt;Library&lt;/li&gt;&lt;li&gt;Research Data Services&lt;/li&gt;&lt;li&gt;Engineering Dept&lt;/li&gt;&lt;li&gt;A School&lt;/li&gt;&lt;li&gt;DevHub&lt;/li&gt;&lt;li&gt;Data Science&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1140" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MUnC99iAr-YjVo2n2BIT-40" value="University" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-145" y="1100" width="120" height="30" as="geometry" />
@@ -106,20 +109,164 @@
         <mxCell id="MUnC99iAr-YjVo2n2BIT-46" value="Municipal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1065" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-47" value="&lt;ul&gt;&lt;li&gt;None?&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-47" value="&lt;ul&gt;&lt;li&gt;NDS&lt;/li&gt;&lt;li&gt;Tree Commission&lt;/li&gt;&lt;li&gt;Sister Cities&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1095" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-48" value="&lt;ul&gt;&lt;li&gt;USWDS&lt;/li&gt;&lt;li&gt;18f API Standards&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-48" value="&lt;ul&gt;&lt;li&gt;NSF&lt;/li&gt;&lt;li&gt;USWDS&lt;/li&gt;&lt;li&gt;18f API Standards&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="460" y="980" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-49" value="&lt;ul&gt;&lt;li&gt;VDBVI&lt;/li&gt;&lt;li&gt;VDDHH&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="255" y="980" width="150" height="70" as="geometry" />
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-49" value="&lt;ul&gt;&lt;li&gt;Virginia Dept of Forestry&lt;/li&gt;&lt;li&gt;VDBVI&lt;/li&gt;&lt;li&gt;VCU, VT&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="980" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-50" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Benetech&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;OpenStreetMap&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-50" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;OpenStreetMap&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;iNaturalist&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="715" y="980" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUnC99iAr-YjVo2n2BIT-51" value="Ash Tree Epidemic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-51" value="Canopy and health" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="750" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-52" value="NNLM&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-53" value="&lt;ul&gt;&lt;li&gt;Cultural Relevance&lt;/li&gt;&lt;li&gt;Community Engagement&lt;/li&gt;&lt;li&gt;Accountability&lt;/li&gt;&lt;li&gt;Narrative&lt;/li&gt;&lt;li&gt;Develop Regional Strategy&lt;/li&gt;&lt;li&gt;Access to Ground Truth and Experiential Learning&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1540" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-54" value="&lt;ul&gt;&lt;li&gt;Understanding Policy&lt;/li&gt;&lt;li&gt;Develop National Strategy&lt;/li&gt;&lt;li&gt;Institutional Wisdom&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1540" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-55" value="&lt;ul&gt;&lt;li&gt;Address federal guidelines&lt;/li&gt;&lt;li&gt;Address portability and scalability of process&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1520" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-56" value="&lt;ul&gt;&lt;li&gt;Find experts&lt;/li&gt;&lt;li&gt;Marketing scope&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-57" value="&lt;ul&gt;&lt;li&gt;Sustainability&lt;/li&gt;&lt;li&gt;Evolution&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-58" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;IRC&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Side by Side&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;BLM&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Blue Trunk&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1750" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-59" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-60" value="&lt;ul&gt;&lt;li&gt;Library&lt;/li&gt;&lt;li&gt;Research Data Services&lt;/li&gt;&lt;li&gt;Engineering Dept&lt;/li&gt;&lt;li&gt;A School&lt;/li&gt;&lt;li&gt;DevHub&lt;/li&gt;&lt;li&gt;Data Science&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1850" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-61" value="University" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="1810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-62" value="Local Advocates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-63" value="Regional Review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-64" value="National Alignment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-65" value="International Engagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-66" value="Business Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-67" value="Municipal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1715" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-68" value="&lt;ul&gt;&lt;li&gt;NDS&lt;/li&gt;&lt;li&gt;Fire Dept&lt;/li&gt;&lt;li&gt;Sister Cities&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1745" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-69" value="&lt;ul&gt;&lt;li&gt;NIH&lt;/li&gt;&lt;li&gt;USWDS&lt;/li&gt;&lt;li&gt;18f API Standards&lt;/li&gt;&lt;li&gt;NIDILRR&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1630" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-70" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;VDBVI&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;VCU&lt;/li&gt;&lt;li&gt;NBF&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="1630" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-71" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;OpenStreetMap&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1630" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-72" value="ADA Wayfinding &amp;amp; Robotics training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1350" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-74" value="Content Gathering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="2490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-75" value="Content Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="2490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-76" value="Content Dissimination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="2490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-78" value="Content Archives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1342.5" y="2590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-79" value="&lt;ul&gt;&lt;li&gt;Align with federal standards&lt;/li&gt;&lt;li&gt;Apply to statewide initiatives&lt;/li&gt;&lt;li&gt;Focus on local needs&lt;/li&gt;&lt;li&gt;Scale through international agencies&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="2530" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-80" value="&lt;ul&gt;&lt;li&gt;Align with federal standards&lt;/li&gt;&lt;li&gt;Develop trust schema&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="2530" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-83" value="ESRI&lt;br&gt;Identify latest business process" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="2110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-84" value="Open Street Map&lt;br&gt;&lt;span&gt;&lt;br&gt;Global endpoint&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2240.72" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-85" value="Drupal&lt;br&gt;DKAN&lt;br&gt;Content description&lt;br&gt;CRM&lt;br&gt;Education&lt;br&gt;Marketing&lt;br&gt;Internationalization" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2090" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-87" value="Jupyter / Streamlit&lt;br&gt;Test leading edge algorithm &amp;amp; ML&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="2330" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-88" value="Salesforce&lt;br&gt;BI" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2300.72" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-92" value="&lt;ul&gt;&lt;li&gt;Primary aim:&amp;nbsp; Examine workflows and identify open source solutions to connect and diversify community.&amp;nbsp; Proprietary software is good at getting answers, however if we want to have discussions looking at &quot;leading edge&quot; algorithms and edge-case workflows we need to have an open source reproducible process.&lt;/li&gt;&lt;li&gt;Secondary aim: Open doors to sustainability through workflows that focus on profit&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="840" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-94" target="MUnC99iAr-YjVo2n2BIT-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-94" target="MUnC99iAr-YjVo2n2BIT-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-94" value="Terraform&lt;br&gt;Postgres / RDS / S3 / EC2" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="2220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-96" value="QGIS etc...&lt;br&gt;Check for open source alternatives" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="2220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-99" value="Research" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-101" value="DevHub&lt;br&gt;&lt;br&gt;Research infrastructure layers" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="2070" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-102" target="MUnC99iAr-YjVo2n2BIT-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-102" target="MUnC99iAr-YjVo2n2BIT-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-102" target="MUnC99iAr-YjVo2n2BIT-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-102" value="API&lt;br&gt;Authentication" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="2225.36" width="90" height="49.28" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-104" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-105" target="MUnC99iAr-YjVo2n2BIT-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="2240" as="sourcePoint" />
+            <mxPoint x="320" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-112" target="MUnC99iAr-YjVo2n2BIT-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUnC99iAr-YjVo2n2BIT-112" target="MUnC99iAr-YjVo2n2BIT-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUnC99iAr-YjVo2n2BIT-112" value="API&lt;br&gt;Authentication" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="95" y="2225.36" width="90" height="49.28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
